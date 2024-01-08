@@ -14,9 +14,9 @@
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "테스트"
-        url: "/test"
-      - title: "테스트1"
-        url: "/test1"
-      - title: "테스트2"
-        url: "/test2"
+      - title: "C Programming"
+        url: "/c-proramming"
+      - title: "C++ Programming"
+        url: "/c-plus-plus-programming"
+      - title: "네트워크"
+        url: "/network"
