@@ -1,7 +1,7 @@
 ---
 title: "네트워크"
 layout: archive
-permalink: /network
+permalink: /categories/network
 ---
 
 {% assign posts = site.categories.network %}

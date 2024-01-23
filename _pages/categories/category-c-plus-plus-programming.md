@@ -1,7 +1,7 @@
 ---
 title: "C++ Programming"
 layout: archive
-permalink: /c-plus-plus-programming
+permalink: /categories/c-plus-plus-programming
 ---
 
 {% assign posts = site.categories.c-plus-plus-programming %}

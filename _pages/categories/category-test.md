@@ -1,8 +1,9 @@
 ---
-title: "C Programming"
+title: "test"
 layout: archive
-permalink: /c-programming
+permalink: /categories/test
 ---
 
-{% assign posts = site.categories.c-programming %}
+
+{% assign posts = site.categories.test %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
