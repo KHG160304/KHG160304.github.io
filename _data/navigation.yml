@@ -15,8 +15,8 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "C Programming"
-        url: "/c-programming"
+        url: "/categories/c-programming"
       - title: "C++ Programming"
-        url: "/c-plus-plus-programming"
+        url: "/categories/c-plus-plus-programming"
       - title: "네트워크"
-        url: "/network"
+        url: "/categories/network"
