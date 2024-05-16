@@ -1,6 +1,6 @@
 ---
 title: "C++ Programming"
-layout: archive
+layout: category
 permalink: /categories/c-plus-plus-programming
 ---
 

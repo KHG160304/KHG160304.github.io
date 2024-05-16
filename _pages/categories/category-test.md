@@ -1,6 +1,6 @@
 ---
 title: "test"
-layout: archive
+layout: category
 permalink: /categories/test
 ---
 
