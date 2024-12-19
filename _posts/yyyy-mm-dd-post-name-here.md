@@ -7,6 +7,7 @@ categories:
   - 네트워크
   - 윈도우즈 시스템 프로그래밍
   - 혼자 공부하는 컴퓨터구조 + 운영체제
+  - 게임서버 과정
   <!-- 위의 카테고리 중 하나를 선택해서 작성하시오 -->
 permalink: 
   - /c-programming/#포스트URL
@@ -14,7 +15,10 @@ permalink:
   - /network/#포스트URL
   - /windows-system-programming/#포스트URL
   - /hongong-computer-science/#포스트URL
+  - /game-server-curriculum/#포스트URL
   <!-- 위의 카테고리 중 하나를 선택해서 작성하시오 -->
+toc: true
+toc_sticky: true
 typora-root-url: ../../
 ---
 

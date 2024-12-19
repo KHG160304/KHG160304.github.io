@@ -24,3 +24,5 @@ sidebar-category:
         url: "/categories/windows-system-programming"
       - title: "혼자 공부하는 컴퓨터 구조 + 운영체제"
         url: "/categories/hongong-computer-science"
+      - title: "게임서버 과정"
+        url: "/categories/game-server-curriculum"
