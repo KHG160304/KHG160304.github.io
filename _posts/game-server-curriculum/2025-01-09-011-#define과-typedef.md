@@ -1,5 +1,5 @@
 ---
-title: (11) #define과-typedef
+title: "(11) #define과 typedef"
 excerpt: #define과 typedef의 특징 및 차이점에 대해서 알아보자
 categories: 
   - 게임서버 과정
